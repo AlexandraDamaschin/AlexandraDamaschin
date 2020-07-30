@@ -1,8 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/AlexandraDamaschin/AlexandraDamaschin/blob/master/DescriptionPicture.png" alt="Banner about Alexandra Damaschin">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mobile apps
-- 🌱 I’m currently learning Ruby
+I like to describe myself as a person who enjoys working with new technologies. The opportunity to learn new things is particularly attractive to me and new challenges are always a good idea.
