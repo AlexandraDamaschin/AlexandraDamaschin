@@ -4,7 +4,7 @@ I like to describe myself as a person who enjoys working with new technologies. 
 
 Currently I am a mobile developer, but learning to become a full stack mobile developer. 
 
-Want to know more about my teck stack? Take a look at my repos!
+Want to know more about my tech stack? Take a look at my repos!
 
 ####
 
